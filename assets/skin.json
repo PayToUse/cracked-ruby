@@ -7,7 +7,7 @@
         "sliderFollowComboColor" : false,
         "sliderBorderColor" : "#FFFFFF",
         "sliderBodyColor" : "#333333",
-        "sliderBodyBaseAlpha" : 1,
+        "sliderBodyBaseAlpha" : 0.5,
         "sliderHintEnable": true,
         "sliderHintAlpha" : 0.3,
         "sliderHintWidth" : 3,
