@@ -1,4 +1,4 @@
-## 《CK》Cracked Ruby
+## 《PTU》Cracked Ruby
 An osu! skin for an osu! player, PayToUse. 
 
 ## Screenshots
@@ -13,3 +13,6 @@ No screenshots yet.
 | osu!droid | ✅ |
 | McOsu | Not Checked Yet |
 | opsu! | Not Checked Yet |
+
+## Note
+idk why all of a sudden the name of the skin file included the 《CK》symbol, but it wasn't official made by cyperdark.
