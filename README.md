@@ -31,3 +31,9 @@ All of the screenshots, if you wish to send me some, dm me on discord: LouieNotH
 
 ## Note
 idk why all of a sudden the name of the skin file included the 《CK》symbol, but it wasn't official made by cyperdark.
+
+## Cloning
+Copy this command and paste it into your terminal, *make sure you have the git package installed*
+```
+git clone https://github.com/PayToUse/cracked-ruby
+```
