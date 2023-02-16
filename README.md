@@ -2,7 +2,13 @@
 An osu! skin for an osu! player, PayToUse. 
 
 ## Screenshots
-No screenshots yet.
+osu!lazer preview:
+
+[osu!lazer screenshot #1](screenshots/Screenshot_20230211_132451_sh.ppy.osulazer.jpg)
+
+osu!droid preview:
+
+[osu!droid screenshot #1](screenshots/Screenshot_20230211_131429_ru.nsu.ccfit.zuev.osuplus.jpg) 
 
 ## Supported clients
 
