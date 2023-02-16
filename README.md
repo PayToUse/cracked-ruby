@@ -8,7 +8,9 @@ osu!lazer preview:
 
 osu!droid preview:
 
+<img src="screenshots/Screenshot_20230211_131411_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230211_131429_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+<img src="screenshots/Screenshot_20230211_131451_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 
 All of the screenshots, if you wish to send me some, dm me on discord: LouieNotHere#2336
 
