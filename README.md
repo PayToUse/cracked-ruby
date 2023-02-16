@@ -4,11 +4,13 @@ An osu! skin for an osu! player, PayToUse.
 ## Screenshots
 osu!lazer preview:
 
-[osu!lazer screenshot #1](screenshots/Screenshot_20230211_132451_sh.ppy.osulazer.jpg)
+<img src="screenshots/Screenshot_20230211_132451_sh.ppy.osulazer.jpg"></img>
 
 osu!droid preview:
 
-[osu!droid screenshot #1](screenshots/Screenshot_20230211_131429_ru.nsu.ccfit.zuev.osuplus.jpg) 
+<img src="screenshots/Screenshot_20230211_131429_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+
+All of the screenshots, if you wish to send me some, dm me on discord: LouieNotHere#2336
 
 ## Supported clients
 
