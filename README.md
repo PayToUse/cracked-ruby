@@ -29,6 +29,11 @@ All of the screenshots, if you wish to send me some, dm me on discord: LouieNotH
 | opsu! | ✅ |
 | Other osu!clients | Not checked |
 
+## Development Status
+Last updated: Friday, February 24, 2023
+
+Latest Version: v1.2.1
+
 ## Note
 idk why all of a sudden the name of the skin file included the 《CK》symbol, but it wasn't official made by cyperdark.
 
