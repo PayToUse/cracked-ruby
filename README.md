@@ -42,3 +42,8 @@ Copy this command and paste it into your terminal, *make sure you have the git p
 ```
 git clone https://github.com/PayToUse/cracked-ruby
 ```
+
+To install the git package before you do the command, copy this and paste it to your terminal, *and wait some time*
+```
+pkg install git
+```
