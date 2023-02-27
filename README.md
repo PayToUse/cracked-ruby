@@ -1,5 +1,5 @@
 ## 《PTU》Cracked Ruby
-An osu! skin for an osu! player, PayToUse. 
+My own custom osu!standard skin.
 
 ## Screenshots
 osu!lazer preview:
@@ -32,7 +32,7 @@ All of the screenshots, if you wish to send me some, dm me on discord: LouieNotH
 ## Development Status
 Last updated: Friday, February 24, 2023
 
-Latest Version: v1.2.2 (alpha) (*in development, no releases yet*) 
+Latest Version: v1.2.2 (beta) (*in development, currently working on the changes to the source code*) 
 
 ## Note
 idk why all of a sudden the name of the skin file included the 《CK》symbol, but it wasn't official made by cyperdark.
