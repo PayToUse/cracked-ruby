@@ -35,14 +35,14 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 
 ## Supported clients
 
-| Client | Support |
-| ------------ | ------------ |
-| osu! | ✅ |
-| osu!lazer (**official osu! alternate**) | ✅ |
-| osu!droid | ✅ |
-| McOsu | Not Checked Yet |
-| opsu! | ✅ |
-| Other osu!clients | Not checked |
+| Client | Support | Date Checked |
+| ------------ | ------------ | ------------ |
+| osu! | stopped supporting due to unknown skin.ini (❌) | 02-28-2023 |
+| osu!lazer (**official osu! alternate**) | stopped supporting due to unknown skin.ini (❌) | 02-28 - 2023 |
+| osu!droid | ✅ | 02-13-2023 |
+| McOsu | Not checked yet | 02-13-2023
+| opsu! | ✅ | 02-13-2023 |
+| Other osu!clients | Not checked yet | ??-??-???? |
 
 ## Development Status
 Last updated: Friday, February 24, 2023
