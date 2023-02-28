@@ -41,13 +41,13 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 | osu!lazer (**official osu! alternate**) | stopped supporting due to unknown skin.ini (❌) | 02-28 - 2023 |
 | osu!droid | ✅ | 02-13-2023 |
 | McOsu | Not checked yet | 02-13-2023
-| opsu! | ✅ | 02-13-2023 |
+| opsu! | ✅ | 02-28-2023 |
 | Other osu!clients | Not checked yet | ??-??-???? |
 
 ## Development Status
-Last updated: Friday, February 24, 2023
+Last updated: Tuesday, February 28, 2023
 
-Latest Version: v1.3
+Latest Version: v1.3.1 (*in development, fixing bugs on osu! clients*) 
 
 Screenshots will be revealed after updating to a new look of the assets
 
