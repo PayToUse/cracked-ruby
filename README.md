@@ -17,15 +17,20 @@ osu!droid new preview:
 <img src="screenshots/Screenshot_20230228_160645_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230228_160655_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 
-mods preview:
+Mods preview:
 
 <img src="screenshots/Screenshot_20230228_160751_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+
+New UI preview:
+
+<img src="screenshots/Screenshot_20230228_164902_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 
 opsu! preview:
 
 <img src="screenshots/opsu-preview.gif"></img>
-
-All of the screenshots, if you wish to send me some, dm me on discord: LouieNotHere#2336
+User screenshots:
+ 
+All of the screenshots sent by users go here, if you wish to send me some, dm me on discord: LouieNotHere#2336
 
 ## Supported clients
 
@@ -41,7 +46,7 @@ All of the screenshots, if you wish to send me some, dm me on discord: LouieNotH
 ## Development Status
 Last updated: Friday, February 24, 2023
 
-Latest Version: v1.3 (beta) (*in development, currently working on the changes to the source code*)
+Latest Version: v1.3
 
 Screenshots will be revealed after updating to a new look of the assets
 
