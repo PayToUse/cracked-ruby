@@ -28,6 +28,7 @@ New UI preview:
 opsu! preview:
 
 <img src="screenshots/opsu-preview.gif"></img>
+
 User screenshots:
  
 All of the screenshots sent by users go here, if you wish to send me some, dm me on discord: LouieNotHere#2336
