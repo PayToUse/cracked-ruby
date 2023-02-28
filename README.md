@@ -6,11 +6,20 @@ osu!lazer preview:
 
 <img src="screenshots/Screenshot_20230211_132451_sh.ppy.osulazer.jpg"></img>
 
-osu!droid preview:
+osu!droid old preview:
 
 <img src="screenshots/Screenshot_20230211_131411_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230211_131429_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230211_131451_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+
+osu!droid new preview:
+
+<img src="screenshots/Screenshot_20230228_160645_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+<img src="screenshots/Screenshot_20230228_160655_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+
+mods preview:
+
+<img src="screenshots/Screenshot_20230228_160751_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 
 opsu! preview:
 
