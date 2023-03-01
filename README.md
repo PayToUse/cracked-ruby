@@ -1,7 +1,24 @@
-## 《PTU》Cracked Ruby
-My own custom osu!standard skin.
 
-## Screenshots
+
+
+    
+
+
+## 《PTU》Cracked Ruby
+My own custom osu!standard skin for supported osu! clients.
+
+Cracked ruby has it's own customizable assets in the `other-assets`folder so users can customize the skin as their own edited skin. But since this skin is in-development, the author of the skin (me) will try to add more assets for the `other-assets` folder in the skin's directory.
+
+You may customize the combo color of the `skin.ini` file but before you edit the skin, put this one as an edit:
+
+```
+<osu! username> Edit
+```
+
+## Screenshots and Previews
+
+Some preview screenshots are from users, credits to them below the screenshots
+
 osu!lazer preview:
 
 <img src="screenshots/Screenshot_20230211_132451_sh.ppy.osulazer.jpg"></img>
@@ -49,10 +66,10 @@ Last updated: Tuesday, February 28, 2023
 
 Latest Version: v1.3.1 (*in development, fixing bugs on osu! clients*) 
 
-Screenshots will be revealed after updating to a new look of the assets
+I'm trying to fix some issues with the `skin.ini` file because the skin on `osu!` and `osu!lazer` defines it as `unknown`
 
 ## Note
-idk why all of a sudden the name of the skin file included the 《CK》symbol, but it wasn't official made by cyperdark.
+You may credit me for the skin, but some assets we're credited to a bunch of users of their own skins.
 
 ## Cloning
 Copy this command and paste it into your terminal, *make sure you have the git package installed*
