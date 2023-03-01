@@ -40,7 +40,7 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 | osu! | stopped supporting due to unknown skin.ini (❌) | 02-28-2023 |
 | osu!lazer (**official osu! alternate**) | stopped supporting due to unknown skin.ini (❌) | 02-28 - 2023 |
 | osu!droid | ✅ | 02-13-2023 |
-| McOsu | Not checked yet | 02-13-2023
+| McOsu | Not checked yet | ??-??-???? |
 | opsu! | ✅ | 02-28-2023 |
 | Other osu!clients | Not checked yet | ??-??-???? |
 
