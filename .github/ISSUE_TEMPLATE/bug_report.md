@@ -1,33 +1,38 @@
-# Issue Contents
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-### Information
+---
 
-**Bug**: (name of the bug)
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**Asset**: (the name of the file that made the bug the bug)
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Description**: (describe what happened)
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-### Steps to get the bug
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-1. First step
-2. Second step
-3. Third step
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-### Evidences
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-#### Screenshots
-
-(send the file of the bug)
-
-### Version
-
-**osu!client**: (name of the client) 
-
-**Operating System**: (your operating systrm) 
-
-**Skin Version**: (the version of the skin) 
-
-### Other Context
-
-(put other context that is related to the bug) 
+**Additional context**
+Add any other context about the problem here.
