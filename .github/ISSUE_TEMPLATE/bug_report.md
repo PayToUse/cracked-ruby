@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Bug Report
+about: Create an issue using this template if you are experiencing bugs with the skin.
+title: 'Bug Report'
+labels: 'bug'
+assignees: 'PayToUse'
 
 ---
 
