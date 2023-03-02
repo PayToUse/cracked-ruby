@@ -1,9 +1,3 @@
-
-
-
-    
-
-
 ## 《PTU》Cracked Ruby
 My own custom osu!standard skin for supported osu! clients.
 
@@ -73,11 +67,15 @@ You may credit me for the skin, but some assets we're credited to a bunch of use
 
 ## Cloning
 Copy this command and paste it into your terminal, *make sure you have the git package installed*
+
 ```
 git clone https://github.com/PayToUse/cracked-ruby
 ```
 
 To install the git package before you do the command, copy this and paste it to your terminal, *and wait some time*
+
 ```
 pkg install git
 ```
+
+While waiting for the download to finish, there's a popup that `lets the terminal use enough space for the package`. You must type `y` and press the `Enter` key and wait for it to finish downloading the package.
