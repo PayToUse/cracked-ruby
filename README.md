@@ -48,8 +48,8 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 
 | Client | Support | Date Checked |
 | ------------ | ------------ | ------------ |
-| osu! | stopped supporting due to unknown skin.ini (❌) | 02-28-2023 |
-| osu!lazer (**official osu! alternate**) | stopped supporting due to unknown skin.ini (❌) | 02-28 - 2023 |
+| osu! | ✅ | 04-11-2023 |
+| osu!lazer (**official osu! alternate**) | ✅ | 04-11-2023 |
 | osu!droid | ✅ | 02-13-2023 |
 | McOsu | Not checked yet | ??-??-???? |
 | opsu! | ✅ | 02-28-2023 |
@@ -58,9 +58,11 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 ## Development Status
 Last updated: Tuesday, February 28, 2023
 
-Latest Version: v1.3.1 (*in development, fixing bugs on osu! clients*) 
+Latest Version: v1.4 (*in development, implementing new assets, will be released later*) 
 
-I'm trying to fix some issues with the `skin.ini` file because the skin on `osu!` and `osu!lazer` defines it as `unknown`
+I finally fixed the issue where the `skin` files were defined as `unknown` due to the `skin.json` file for `osu!droid` being in the same directory
+
+For now, the skin will be divided into two for two specific platforms.
 
 ## Note
 You may credit me for the skin, but some assets we're credited to a bunch of users of their own skins.
