@@ -9,21 +9,22 @@ You may customize the combo color of the `skin.ini` file but before you edit the
 <osu! username> Edit
 ```
 
-## Screenshots and Previews
-
+## v1.0 Screenshots and Previews
 Some preview screenshots are from users, credits to them below the screenshots
 
 osu!lazer preview:
 
 <img src="screenshots/Screenshot_20230211_132451_sh.ppy.osulazer.jpg"></img>
 
-osu!droid old preview:
+osu!droid preview:
 
 <img src="screenshots/Screenshot_20230211_131411_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230211_131429_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230211_131451_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 
-osu!droid new preview:
+# v1.3 Screenshots and Previews
+
+osu!droid preview:
 
 <img src="screenshots/Screenshot_20230228_160645_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
 <img src="screenshots/Screenshot_20230228_160655_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
@@ -40,7 +41,10 @@ opsu! preview:
 
 <img src="screenshots/opsu-preview.gif"></img>
 
-User screenshots:
+# v1.5 Screenshots and Previews
+coming soon.
+
+# User screenshots
  
 All of the screenshots sent by users go here, if you wish to send me some, dm me on discord: LouieNotHere#2336
 
@@ -58,14 +62,12 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 ## Development Status
 Last updated: Tuesday, February 28, 2023
 
-Latest Version: v1.4 (*in development, implementing new assets, will be released later*) 
+Latest Version: v1.5-beta (*overhauling the gameplay and the menu assets, release soon*) 
 
-I finally fixed the issue where the `skin` files were defined as `unknown` due to the `skin.json` file for `osu!droid` being in the same directory
-
-For now, the skin will be divided into two for two specific platforms.
+I thinked of a new idea about overhauling most assets in game from the skin, which means *almost* everything will change except for the cursor, but the `other-assets` folder will contain new and added assets (not replaced lmao)
 
 ## Note
-You may credit me for the skin, but some assets we're credited to a bunch of users of their own skins.
+Please note that editing the skin is allowed, but please put "*Cracked Ruby* `(<USERNAME> Edit)`" if you want to publish it to the public, and most assets we're credited to a bunch of skins dedicated to players who currently use it.
 
 ## Cloning
 Copy this command and paste it into your terminal, *make sure you have the git package installed*
@@ -80,4 +82,4 @@ To install the git package before you do the command, copy this and paste it to 
 pkg install git
 ```
 
-While waiting for the download to finish, there's a popup that `lets the terminal use enough space for the package`. You must type `y` and press the `Enter` key and wait for it to finish downloading the package.
+While waiting for the download to finish, there's a popup that `lets the terminal use enough space for the package`. You must type `y` and press the `Enter` key and wait for it to finish downloading the package. (*Termux only, sorta.*)
