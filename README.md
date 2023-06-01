@@ -42,7 +42,13 @@ opsu! preview:
 <img src="screenshots/opsu-preview.gif"></img>
 
 # v1.5 Screenshots and Previews
-coming soon.
+
+osu!droid preview:
+
+<img src="screenshots/Screenshot_20230602_064146_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+<img src="screenshots/Screenshot_20230602_064158_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+<img src="screenshots/Screenshot_20230602_064200_ru.nsu.ccfit.zuev.osuplus.jpg"></img>
+
 
 # User screenshots
  
