@@ -56,19 +56,19 @@ All of the screenshots sent by users go here, if you wish to send me some, dm me
 
 ## Supported clients
 
-| Client | Support | Date Checked |
+| Client | Support | Date Last Checked |
 | ------------ | ------------ | ------------ |
-| osu! | ✅ | 04-11-2023 |
-| osu!lazer (**official osu! alternate**) | ✅ | 04-11-2023 |
-| osu!droid | ✅ | 02-13-2023 |
+| osu! | ❌ (skin.ini content issues) | 07-18-2023 |
+| osu!lazer (**official osu! alternate**) | ❌ (skin.ini content issues) | 07-18-2023 |
+| osu!droid | ✅ | 07-18-2023 |
 | McOsu | Not checked yet | ??-??-???? |
 | opsu! | ✅ | 02-28-2023 |
-| Other osu!clients | Not checked yet | ??-??-???? |
+| Other osu!clients | ??? | ??-??-???? |
 
 ## Development Status
 Last updated: Tuesday, February 28, 2023
 
-Latest Version: v1.5-beta (*overhauling the gameplay and the menu assets, release soon*) 
+Latest Version: v1.5
 
 I thinked of a new idea about overhauling most assets in game from the skin, which means *almost* everything will change except for the cursor, but the `other-assets` folder will contain new and added assets (not replaced lmao)
 
