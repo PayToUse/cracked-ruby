@@ -52,7 +52,7 @@ osu!droid preview:
 
 # User screenshots
  
-All of the screenshots sent by users go here, if you wish to send me some, dm me on discord: LouieNotHere#2336
+All of the screenshots sent by users go here, if you wish to send me some, dm me on discord: @paytouse (*formerly **LouieNotHere#2336**, remove the @ symbol so the username can be valid*)
 
 ## Supported clients
 
