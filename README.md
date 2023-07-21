@@ -62,9 +62,9 @@ By NicLicL (niclicl on discord)
 
 | Client | Support | Date Last Checked |
 | ------------ | ------------ | ------------ |
-| osu! | ❌ (skin.ini content issues) | 07-18-2023 |
-| osu!lazer (**official osu! alternate**) | ❌ (skin.ini content issues) | 07-18-2023 |
-| osu!droid | ✅ | 07-18-2023 |
+| osu! | ❌ (not available starting in v1.4) | 07-21-2023 |
+| osu!lazer (**official osu! alternate**) | ❌ (not available starting in v1.4) | 07-21-2023 |
+| osu!droid | ✅ | 07-21-2023 |
 | McOsu | Not checked yet | ??-??-???? |
 | opsu! | ✅ | 02-28-2023 |
 | Other osu!clients | ??? | ??-??-???? |
@@ -73,8 +73,6 @@ By NicLicL (niclicl on discord)
 Last updated: Tuesday, February 28, 2023
 
 Latest Version: v1.5
-
-I thinked of a new idea about overhauling most assets in game from the skin, which means *almost* everything will change except for the cursor, but the `other-assets` folder will contain new and added assets (not replaced lmao)
 
 ## Note
 Please note that editing the skin is allowed, but please put "*Cracked Ruby* `(<USERNAME> Edit)`" if you want to publish it to the public, and most assets we're credited to a bunch of skins dedicated to players who currently use it.
