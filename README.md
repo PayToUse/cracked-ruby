@@ -54,6 +54,10 @@ osu!droid preview:
  
 All of the screenshots sent by users go here, if you wish to send me some, dm me on discord: @paytouse (*formerly **LouieNotHere#2336**, remove the @ symbol so the username can be valid*)
 
+By NicLicL (niclicl on discord)
+<img src="screenshots/Screenshot_2023-07-21-09-52-30-405_ru.nsu.ccfit.zuev.osuplus.jpg">
+<img src="screenshots/Screenshot_2023-07-21-09-53-03-520_ru.nsu.ccfit.zuev.osuplus.jpg">
+
 ## Supported clients
 
 | Client | Support | Date Last Checked |
