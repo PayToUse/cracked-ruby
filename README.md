@@ -1,13 +1,17 @@
 ## 《PTU》Cracked Ruby
 My own custom osu!standard skin for supported osu! clients.
 
-Cracked ruby has it's own customizable assets in the `other-assets`folder so users can customize the skin as their own edited skin. But since this skin is in-development, the author of the skin (me) will try to add more assets for the `other-assets` folder in the skin's directory.
+Cracked ruby has it's own customizable assets in the `other-assets` folder so users can customize the skin as their own edited skin. But since this skin is in-development, the author of the skin (me) will try to add more assets for the `other-assets` folder in the skin's directory.
 
-You may customize the combo color of the `skin.ini` file but before you edit the skin, put this one as an edit:
+You can edit this skin whatever you'd like that suits you best. You can also use some stuff in the `other-assets` folder that you could use.
 
-```
-<osu! username> Edit
-```
+This skin may be a skin mix actually, but don't tell me that because i wouldn't care if it is anyway.
+
+## Asset Credits
+
+most osu! menu backgrounds - original artists
+
+v1.5 score and combo assets - Karcher
 
 ## v1.0 Screenshots and Previews
 Some preview screenshots are from users, credits to them below the screenshots
@@ -75,7 +79,7 @@ Last updated: Tuesday, February 28, 2023
 Latest Version: v1.5
 
 ## Note
-Please note that editing the skin is allowed, but please put "*Cracked Ruby* `(<USERNAME> Edit)`" if you want to publish it to the public, and most assets we're credited to a bunch of skins dedicated to players who currently use it.
+I am actually aware that this skin is now available only to osu!droid and not gonna be temporarily unavailable in stable and lazer releases starting on version v1.4, unless someone ports it to stable or lazer. Please feel free to dm me on discord if you are a skin porter, that would mean alot to be honest.
 
 ## Cloning
 Copy this command and paste it into your terminal, *make sure you have the git package installed*
